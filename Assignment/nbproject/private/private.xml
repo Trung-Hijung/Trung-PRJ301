@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/filter/AdminFilter.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/CategoryDTO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/OrderDetailServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/users.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/editProduct.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/register.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/OrderDetailDTO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/index.html</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/OrderDAO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/EditOrderServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/orders.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/cart.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/category_list.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/index.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/ManageOrdersServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/RegisterServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/CartServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/UpdateCartServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/CategoryServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/edit_order.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/ProductDTO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/error.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/UserDTO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/ProductListServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/CheckoutServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/ProductDetailServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/OrderDTO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/LogoutServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/CategoryDAO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/utils/DbUtils.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/addProduct.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/ProductDAO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/OrderDetailDAO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/ManageUsersServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/model/UserDAO.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/products.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/ManageProductsServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/product_detail.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/EditProductServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/DeleteOrderServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/login.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/checkout.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/RemoveFromCartServlet.java</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/products.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/web/order_detail.jsp</file>
+            <file>file:/C:/Users/Legion%207/Desktop/PRJ301/Assignment/src/java/controller/admin/AddProductServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
